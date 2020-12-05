@@ -1,0 +1,16 @@
+{
+  "name": "alt-obins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serializeSequence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crc32": "^0.2.2",
+    "lodash": "^4.17.20",
+    "sqlite3": "^5.0.0"
+  }
+}
