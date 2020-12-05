@@ -46,7 +46,8 @@ If you'd like to generate macros for a new list of strings, you'll have to manua
 
 ### DISCLAIMER
  
-digHelm may, and very probably will, break or stop working altogether in the future, since it relies on generating a binary macro format that is then directly written to the keyboard by the app.
+digHelm may, and very probably will, break or stop working altogether in the future, since it relies on generating a 
+binary macro format that is then directly written to the keyboard by the app when you assign it to a key and download it.
 Which means that unpredictable stuff may happen.
 
 As such, I feel that I must include the following disclaimer:
